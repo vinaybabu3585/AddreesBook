@@ -1,7 +1,7 @@
 # AddreesBook
-Name:vinay babu
+Name:Vinay babu
 Title: Address book
-description: Adding the number to the contact lsit
+Description: Adding the number to the contact lsit
 1.Add contact
 2.Edit the contact
 3.Print the contact
