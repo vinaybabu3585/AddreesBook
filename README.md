@@ -9,23 +9,23 @@ By implementing this project in a hands-on way you will be able to build a firm 
 # Requirement Details:- 
 Here is the list of requirements that your address book should be in a position to handle.<br>     
 
-Add Contact
-Add a contact giving username
-Add phone numbers to the newly added contact
-Add e-mail addresses to the newly added contact                  
-Search Contact
-Search a contact by name.
-Search contact by phone number.
-Search contact by e-mail address.                                             
-Edit Contact
-Edit by name.
-Edit contact by phone number.
-Edit contact by email address.                                                 
-Delete contact
-Edit by name.
-Edit contact by phone number.
-Edit contact by email address.                                                 
-List all contacts
-Save the address book.
-Exit the application.
+Add Contact<br>
+Add a contact giving username.<br>
+Add phone numbers to the newly added contact.<br>
+Add e-mail addresses to the newly added contact.<br>               
+Search Contact<br>
+Search a contact by name.<br>
+Search contact by phone number<br>
+Search contact by e-mail address.<br>                                           
+Edit Contact<br>
+Edit by name.<br>
+Edit contact by phone number.<br>
+Edit contact by email address.<br>                                               
+Delete contact<br>
+Edit by name.<br>
+Edit contact by phone number.<br>
+Edit contact by email address.<br>                                                
+List all contacts<br>
+Save the address book.<br>
+Exit the application.<br>
 
