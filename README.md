@@ -13,7 +13,7 @@ Add phone numbers to the newly added contact.<br>
 Add e-mail addresses to the newly added contact.<br>               
 ### Search Contact<br>
 Search a contact by name.<br>
-Search contact by phone number<br>
+Search contact by phone number.<br>
 Search contact by e-mail address.<br>                                           
 ### Edit Contact<br>
 Edit by name.<br>
